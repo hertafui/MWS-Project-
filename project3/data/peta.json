@@ -1,0 +1,34 @@
+{
+"places":[
+{
+"lokasi": [-1.262726, 116.898055],
+"sponsor" : "Bandara Sultan Aji Muhammad Sulaiman Sepinggan",
+"gambar":"img/bandara.jpg.png",
+"review": "Bandara terbaik di Kaltim (https://travelwithemil.blogspot.com/2016/03/sultan-aji-muhammad-sulaiman-sepinggan.html)"
+},
+{
+"lokasi": [-1.261557, 116.896433],
+"sponsor" : "Masjid As- Salam Sepinggan",
+"gambar":"img/masjid.jpg.png",
+"review": "Masjid deket bandara (http://kaltim.prokal.co/read/news/247271-di-bandara-megah-ini-ada-15-musala)"
+},
+{
+"lokasi": [-1.267754, 116.880738],
+"sponsor" : "Restoran Kepiting Dandito",
+"gambar":"img/dandito.jpg.png",
+"review": "Kepitingnya enak, artis artis suka kesini(https://anekainfounik.net/2014/04/21/tempat-makan-enak-dan-terkenal-di-balikpapan/alamat-dan-harga-restoran-kepiting-dandito-balikpapan/)"
+},
+{
+"lokasi": [-1.267539, 116.877962],
+"sponsor" : "Restoran Kepiting Kenari",
+"gambar":"img/kenari.jpg.png",
+"review": "Saingannya Dandito (https://id.openrice.com/id/other/r-rumah-makan-kepiting-kenari-balikpapan-seafood-r17016)"
+},
+{
+"lokasi": [-1.265564, 116.866953],
+"sponsor" : "UNIBA",
+"gambar":"img/uniba.jpg.png",
+"review": "Universitas Balikpapan (http://www.balikpapantoday.net/uniba-siap-bentuk-kerja-sama-dengan-pemkot-balikpapan/)"
+}
+
+]}
